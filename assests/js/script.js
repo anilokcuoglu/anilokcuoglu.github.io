@@ -43,7 +43,7 @@ $(document).ready(function () {
 
 document.addEventListener("visibilitychange", function () {
   if (document.visibilityState === "visible") {
-    document.title = "Ömer Faruk Eren";
+    document.title = "Talip Anıl OKÇUOĞLU";
     $("#favicon").attr("href", "assests/images/hero0.png");
   } else {
     document.title = "Sayfama Hoşgeldiniz";
